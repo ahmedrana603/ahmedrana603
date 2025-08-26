@@ -1,5 +1,11 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ahmed  <br><br>I’m an undergraduate Data Science student at FAST-NUCES Islamabad, working as a junior Data Scientist and Automation Engineer. I enjoy building automation workflows, working with machine learning models, and solving problems through critical thinking and data driven approaches. My skills include Python, SQL, JavaScript, FastAPI, Selenium, n8n, Make.com, and tools like Pandas, NumPy, scikit learn, and Prophet. I’m passionate about data analysis, predictive modeling, and creating end-to-end automation solutions that integrate AI with real-world processes. Currently, I’m focusing on improving my knowledge in machine learning, automation engineering, and MLOps to deliver production-ready solutions.   
+## 👋 Hey, I am Ahmed Ghaffar
+
+🎓 **Data Science Undergraduate at FAST-NUCES**
+
+💡 **Interests:**  
+- 🤖 Machine Learning & AI   
+- ⚡ Process Automation & Workflow Optimization  
+- 📊 Data Analysis & Predictive Modeling  
 
 
 ## 🌐 Socials:
