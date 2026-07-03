@@ -1,4 +1,4 @@
-## 👋 Hey, I am Ahmed Ghaffar
+## 👋 Hey I am Ahmed Ghaffar
 
 🎓 **Data Science Undergraduate at FAST-NUCES**
 
