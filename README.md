@@ -156,26 +156,12 @@ A scraper built to collect "Friends of Friends" data from Facebook for network/g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedrana603&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedrana603&theme=github_dark"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedrana603&theme=github_dark"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedrana603&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedrana603&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ahmedrana603&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
 ---
