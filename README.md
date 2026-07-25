@@ -1,30 +1,195 @@
-## 👋 Hey I am Ahmed Ghaffar
+<!-- ================= TOP BANNER (custom) ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedrana603/ahmedrana603/main/github-header-banner%20(1).png" width="100%" alt="Ahmed Ghaffar banner"/>
+</p>
 
-🎓 **Data Science Undergraduate at FAST-NUCES**
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=44A833&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate+%40+FAST-NUCES;Machine+Learning+%26+AI+Enthusiast;Process+Automation+Builder;Turning+Data+into+Decisions" alt="Typing SVG" />
+</p>
 
-💡 **Interests:**  
-- 🤖 Machine Learning & AI   
-- ⚡ Process Automation & Workflow Optimization  
-- 📊 Data Analysis & Predictive Modeling  
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmed-ghaffar-504018271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ghaffarahmed603@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedrana603&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedrana603&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrana603&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmedrana603&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- ================= PROFILE VIEWS + SOCIALS ================= -->
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-ghaffar-504018271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ghaffarahmed603@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=med59-hosting&style=for-the-badge&color=44A833&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmedrana603&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a Data Scientist in training who likes making machines learn things faster than I did.
+
+- 🧠 Currently training neural networks and myself, in that order
+- 🎓 Data Science undergrad at **FAST-NUCES**, buried in matrices and deadlines
+- ⚙️ Obsessed with **automating anything that's repeated more than twice**
+- 📈 I build models that predict things, then argue with the model when it's wrong
+- 🛠️ Comfortable stack: Python, PyTorch, scikit-learn, and a lot of coffee
+- 🚀 Currently exploring: process automation pipelines that think for themselves
+- 📫 Let's talk data: **ghaffarahmed603@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 RAG Using Parallel Computing
+
+A Retrieval-Augmented Generation pipeline built to exploit parallel computing for faster retrieval and generation steps.
+
+`Python` `RAG` `Parallel Computing`
+
+[→ Repo](https://github.com/ahmedrana603/RAG-Using-Parallel-Computing)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Deepfake Detector
+
+Deepfake image/video detection project aimed at flagging manipulated media using deep learning.
+
+`Python` `Deep Learning` `Computer Vision`
+
+[→ Repo](https://github.com/ahmedrana603/-Deepfake-Detector)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 AI Tutor
+
+An AI-powered tutoring assistant project designed to help learners work through concepts interactively.
+
+`Python` `AI` `Education`
+
+[→ Repo](https://github.com/ahmedrana603/AI-Tutor)
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 Facebook FOF Scraper
+
+A scraper built to collect "Friends of Friends" data from Facebook for network/graph analysis use cases.
+
+`Python` `Web Scraping` `Automation`
+
+[→ Repo](https://github.com/ahmedrana603/Facebook-FOF-Scraper)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Neural Network
+
+<p align="center">
+  <img src="assets/neural-network.svg" width="100%" alt="animated neural network diagram"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=cpp,py,r&theme=dark)](https://skillicons.dev)
+
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=flat-square&logo=assemblyscript&logoColor=white)
+
+**AI · ML · Data Science**
+
+[![Skills](https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+**Web · Backend**
+
+[![Skills](https://skillicons.dev/icons?i=fastapi,flask,sass&theme=dark)](https://skillicons.dev)
+
+**Design Tools**
+
+[![Skills](https://skillicons.dev/icons?i=ae,ai,figma&theme=dark)](https://skillicons.dev)
+
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+
+**Dev Tools**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,postman,twilio&theme=dark)](https://skillicons.dev)
+
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=Trello&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/med59-hosting/med59-hosting/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This animates your real contribution graph into a snake eating your commit squares.
+> It needs a tiny one-time GitHub Action setup — see the `snake.yml` file below and the setup notes I've included.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=med59-hosting&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=med59-hosting&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=med59-hosting&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=med59-hosting&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44A833,100:0077B5&height=120&section=footer"/>
+</p>
+
+<!-- Proudly built with animated badges, Vercel-hosted stat APIs, and a GitHub Actions snake 🐍 -->
