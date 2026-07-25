@@ -156,8 +156,8 @@ A scraper built to collect "Friends of Friends" data from Facebook for network/g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedrana603&theme=github_dark"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedrana603&theme=github_dark"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedrana603&theme=default"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedrana603&theme=default"/>
 </p>
 
 <p align="center">
