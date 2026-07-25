@@ -142,7 +142,7 @@ A scraper built to collect "Friends of Friends" data from Facebook for network/g
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrana603&theme=dracula&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
@@ -156,12 +156,12 @@ A scraper built to collect "Friends of Friends" data from Facebook for network/g
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedrana603&theme=github_dark"/>
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedrana603&theme=github_dark"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedrana603&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedrana603&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedrana603&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ahmedrana603&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
 </p>
 
 ---
