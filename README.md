@@ -142,27 +142,26 @@ A scraper built to collect "Friends of Friends" data from Facebook for network/g
 ## 🐍 Contribution Activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=med59-hosting&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/med59-hosting/med59-hosting/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚙️ This animates your real contribution graph into a snake eating your commit squares.
-> It needs a tiny one-time GitHub Action setup — see the `snake.yml` file below and the setup notes I've included.
+> ⚙️ The graph above renders immediately, no setup needed. The snake below it animates your real contribution graph into a snake eating your commit squares, but it needs a tiny one-time GitHub Action setup — see the `snake.yml` file below and the setup notes I've included.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=med59-hosting&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=med59-hosting&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=med59-hosting&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=med59-hosting&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=med59-hosting&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 <br/>
